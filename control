@@ -1,0 +1,8 @@
+Package: syntegrity
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: debconf (>= -.2.26)
+Maintainer: Machin
+Description: Hello Syntegrity Team!
